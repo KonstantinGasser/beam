@@ -1,0 +1,10 @@
+beam
+main
+.DS_Store
+.vscode
+**/*.out
+**/*.log
+**/*.test
+profile*.svg
+
+dist/

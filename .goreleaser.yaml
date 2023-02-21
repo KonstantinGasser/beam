@@ -54,7 +54,7 @@ changelog:
 
 brews:
   - name: scotty
-    homepage: https://github.com/KonstantinGasser/scotty
+    homepage: https://github.com/KonstantinGasser/beam
     description: "sub-command for scotty to beam logs to scotty"
     license: Apache-2.0
     caveats: ""
